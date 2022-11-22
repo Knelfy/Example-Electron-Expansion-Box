@@ -1,4 +1,4 @@
-# Example Electron Expansion Box
+# Example Acorn Electron Expansion Box
 
 ![3D Render of Example Expansion Box](https://raw.githubusercontent.com/Knelfy/Example-Electron-Expansion-Box/main/Render%20(final).jpg)
 
